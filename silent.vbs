@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "aaa.bat",0,True
